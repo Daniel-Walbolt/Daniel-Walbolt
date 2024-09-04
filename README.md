@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Daniel-Walbolt
-- 👀 I’m interested in ... android development at the moment
+- 👋 Hi, I’m @Daniel-Walbolt I work professionally as a web development intern
+- 👀 I’m interested in ... Vue3 web development at the moment
 - 🌱 I’m currently working on getting my Bachelors in Computer Science Engineering  
 - 📫 How to reach me... email me at dwalbolt@gmail.com
 
