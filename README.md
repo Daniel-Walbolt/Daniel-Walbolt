@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Daniel-Walbolt I work professionally as a web development intern
-- 👀 I’m interested in ... Vue3 web development at the moment
-- 🌱 I’m currently working on getting my Bachelors in Computer Science Engineering  
+- 👋 Hi, I’m Daniel Walbolt. I work professionally as a software engineer. I love architecting and optimizing code.
+- 👀 I’m interested in ... Vue3, Postgres, Go, and C# at the moment
 - 📫 How to reach me... email me at dwalbolt@gmail.com
 
 <!---
